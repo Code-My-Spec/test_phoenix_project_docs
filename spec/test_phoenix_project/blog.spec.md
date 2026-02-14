@@ -2,6 +2,10 @@
 
 The Blog context manages blog posts including creation, updates, deletion, and real-time notifications.
 
+## Type
+
+context
+
 ## Functions
 
 ### subscribe_posts/1

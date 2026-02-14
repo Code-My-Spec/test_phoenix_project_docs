@@ -1,8 +1,10 @@
 # TestPhoenixProject.Blog.Post
 
-**Type**: schema
-
 Represents blog posts with user ownership and publishing capabilities. Posts maintain a simple structure focused on content creation with user-scoped access control.
+
+## Type
+
+schema
 
 ## Functions
 

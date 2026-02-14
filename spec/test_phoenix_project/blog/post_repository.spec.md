@@ -1,8 +1,10 @@
 # TestPhoenixProject.Blog.PostRepository
 
-**Type**: logic
-
 Provides data access layer for blog posts with user-scoped security. All operations are filtered by user ownership to ensure users can only access their own posts.
+
+## Type
+
+repository
 
 ## Functions
 

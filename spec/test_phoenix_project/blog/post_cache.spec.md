@@ -1,8 +1,10 @@
 # TestPhoenixProject.Blog.PostCache
 
-**Type**: state
-
 In-memory cache for blog posts to improve read performance.
+
+## Type
+
+genserver
 
 ## Functions
 

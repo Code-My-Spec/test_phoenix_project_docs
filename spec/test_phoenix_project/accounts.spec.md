@@ -2,6 +2,10 @@
 
 The Accounts context manages user authentication, registration, sessions, and email confirmations.
 
+## Type
+
+context
+
 ## Functions
 
 ### get_user_by_email/1

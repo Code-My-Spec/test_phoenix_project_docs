@@ -99,3 +99,13 @@ Returns an `%Ecto.Changeset{}` for tracking post changes.
 
 **Test Assertions**:
 - returns a post changeset
+
+## Dependencies
+
+None
+
+## Components
+
+- TestPhoenixProject.Blog.Post
+- TestPhoenixProject.Blog.PostRepository
+- TestPhoenixProject.Blog.PostCache

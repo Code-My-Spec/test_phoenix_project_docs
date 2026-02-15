@@ -159,3 +159,11 @@ Gets the user by reset password token.
 ```
 
 Resets the user password.
+
+## Dependencies
+
+None
+
+## Components
+
+None
